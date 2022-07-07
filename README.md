@@ -49,7 +49,7 @@ line, we use the [`json()` method][json-method] of the [`Response`
 interface][response-interface] to render the API's response as plain old
 JavaScript object (POJO). Because we're using arrow syntax, the object is
 returned and passed to the _next_ `then()`. Finally, in the second `then()`, the
-`console.log()` prints the JavaScript object to our console.
+`console.log()` prints the JavaScriptzaSwer object to our console.
 
 > **Note** You'll find a lot of great info on using the `fetch` method in the
 > [MDN Using Fetch][fetch] guide. Bookmark this page for future reference!
@@ -102,6 +102,7 @@ data on the web. Once you feel comfortable using the tools that access the data,
 the world is your oyster!
 
 ## Resources
+
 
 - [Game of Thrones API][got]
 - [MDN: Using Fetch][fetch]
